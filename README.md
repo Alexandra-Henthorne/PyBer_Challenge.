@@ -23,7 +23,9 @@ Then we began to look at the average fare within a specific time frame, January-
 ![image](https://user-images.githubusercontent.com/107597779/180127578-a422d590-6e37-43ff-bd2e-a49728201ffa.png)
 
 
+Summary: 
+Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-
-
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+1. Marketing - If the CEO wants more buisness in the rural area he/she needs to drive up the market for not only drivers but riders as well. By doing this you can offer incentives to drivers for signing up as well as perks or points to riders once they hit a certain number of rides. 
+2. Numbers also seem to be diving down in the beginning of the years and look to be ramping back up around spring. This could be that most people stay home and inside during colder months. In this case a partnership with bars/hotels or venues would help both parties drive up business during the slow months. For instance enjoy a drink and ride at 25% off during such and such times. When people want to stay in it usually takes a bit more to get them out so partnering with and "outing" atompshere or venue will help make the need for a rideshare more appealing.
+3. Lastly I would have the CEO really dig into the urban market . Since that is where most of the business and profits are coming from as a company you need to make sure your customers and employees (drivers) are getting all of their needs meet and you are hearing their complaints or suggestions. 
